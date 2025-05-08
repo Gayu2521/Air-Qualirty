@@ -1,0 +1,11 @@
+Topic,Subtopic,Key Concept,Algorithm/Technique,Data Source,Environmental Insight,Location Specificity,Reference/Note
+Air Quality Prediction,Local Monitoring,Real-time Data Analysis,Simple Moving Average,Local Sensor Data,Current PM2.5 Levels in Mailam,Mailam,Local Sensor Readings
+Air Quality Prediction,Short-Term Forecasting,Temporal Patterns,ARIMA,Local Sensor Data & Weather,Next 24-Hour PM10 Forecast for Mailam,Mailam,Based on Recent Data
+Air Quality Prediction,Influence of Meteorology,Correlation Analysis,Linear Regression,Local Sensor & Weather Data,Impact of Wind Speed on Pollutant Dispersion in Mailam,Mailam,Analysis of Local Trends
+Air Quality Prediction,Traffic Impact,Regression Modeling,Multiple Linear Regression,Local Sensor & Traffic Data,Contribution of Vehicle Density to NO2 Levels in Mailam,Mailam,Needs Local Traffic Data
+Air Quality Prediction,Seasonal Variations,Cyclical Patterns,SARIMA,Historical Local Sensor Data,Annual Cycle of Ozone Levels in Mailam,Mailam,Requires Several Years of Data
+Air Quality Prediction,Anomaly Detection,Unusual Spikes,Isolation Forest,Local Sensor Data,Identification of Potential Pollution Events in Mailam,Mailam,Requires Defined Baselines
+Air Quality Prediction,Visualization,Spatial Distribution,Heatmaps,Sensor Data & GPS,Mapping Air Quality Variations Across Mailam Area,Mailam,If Multiple Local Sensors Exist
+Air Quality Prediction,Data Preprocessing,Handling Missing Data,Interpolation,Local Sensor Data,Improved Data Completeness for Analysis in Mailam,Mailam,Standard Data Handling
+Air Quality Prediction,Model Evaluation,Accuracy Assessment,Mean Absolute Error (MAE),Predicted vs. Actual Local Data,Performance of Prediction Model for Mailam,Mailam,Standard Evaluation Metric
+Air Quality Prediction,Public Awareness,Simplified Metrics,Categorization,Predicted Pollutant Levels,Air Quality Index (AQI) Forecast for Mailam,Mailam,For Easy Public Understanding
